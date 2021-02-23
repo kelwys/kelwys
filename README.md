@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hey, I'm Kelwy Oliveira 👋🏽
 
-<!--
-**kelwys/kelwys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer.
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-Kelwy%20Oliveira-4682B4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kelwyoliveira/)](https://www.linkedin.com/in/kelwyoliveira/) 
+[![Gmail Badge](https://img.shields.io/badge/-kelwyduarte@gmail.com-4682B4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kelwyduarte@gmail.com)](mailto:kelwyduarte@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What's up, I'm a software developer living in Brazil. I am a fan of Python, Django, and ReactJS. I'm also interested in technology and web development.
+
+### Main Techs: 
+
+<img src="svg/dev/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+
+<img src="svg/dev/django.svg" alt="django"    style="vertical-align:top; margin:6px 4px">
+<img src="svg/dev/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+<img src="svg/dev/html.svg" alt="html"    style="vertical-align:top; margin:6px 4px">
+<img src="svg/dev/css3.svg" alt="css"    style="vertical-align:top; margin:6px 4px">
+<img src="svg/dev/js.svg" alt="js"    style="vertical-align:top; margin:6px 4px">
+<img src="svg/dev/nodejs_larger.svg" alt="nodejs"    style="vertical-align:top; margin:6px 4px">
+<img src="svg/dev/docker.svg" alt="docker"    style="vertical-align:top; margin:6px 4px">       
+
+<img src="https://github-readme-stats.vercel.app/api?username=kelwys&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
+
+<br/>
+<br/>
+
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
