@@ -5,7 +5,8 @@ Full Stack Developer.
 [![Linkedin Badge](https://img.shields.io/badge/-Kelwy%20Oliveira-4682B4?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kelwyoliveira/)](https://www.linkedin.com/in/kelwyoliveira/) 
 [![Gmail Badge](https://img.shields.io/badge/-kelwyduarte@gmail.com-4682B4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kelwyduarte@gmail.com)](mailto:kelwyduarte@gmail.com)
 
-What's up, I'm a software developer living in Brazil. I am a fan of Python, Django, and ReactJS. I'm also interested in technology and web development.
+What's up, I'm a software developer living in Brazil.</br>
+I am a fan of Python, Django, and ReactJS. I'm also interested in technology and web development.
 
 ### Main Techs: 
 
