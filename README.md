@@ -9,19 +9,29 @@ What's up, I'm a software developer living in Brazil. I am a fan of Python, Djan
 
 ### Main Techs: 
 
-<img src="svg/dev/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
-
-<img src="svg/dev/django.svg" alt="django"    style="vertical-align:top; margin:6px 4px">
-<img src="svg/dev/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
-<img src="svg/dev/html.svg" alt="html"    style="vertical-align:top; margin:6px 4px">
-<img src="svg/dev/css3.svg" alt="css"    style="vertical-align:top; margin:6px 4px">
-<img src="svg/dev/js.svg" alt="js"    style="vertical-align:top; margin:6px 4px">
-<img src="svg/dev/nodejs_larger.svg" alt="nodejs"    style="vertical-align:top; margin:6px 4px">
-<img src="svg/dev/docker.svg" alt="docker"    style="vertical-align:top; margin:6px 4px">       
+<a href="#">
+    <img src="svg/dev/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+</a> 
+<a href="#">
+    <img src="svg/dev/django.svg" alt="django"    style="vertical-align:top; margin:6px 4px">
+</a>
+<a href="#">
+    <img src="svg/dev/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+</a> 
+<a href="#">
+    <img src="svg/dev/html.svg" alt="html"    style="vertical-align:top; margin:6px 4px">
+</a>  
+<a href="#">
+    <img src="svg/dev/css3.svg" alt="css"    style="vertical-align:top; margin:6px 4px">
+</a>  
+<a href="#">
+    <img src="svg/dev/js.svg" alt="js"    style="vertical-align:top; margin:6px 4px">
+</a>    
+<a href="#">
+    <img src="svg/dev/nodejs_larger.svg" alt="nodejs"    style="vertical-align:top; margin:6px 4px">
+</a>   
+<a href="#">
+    <img src="svg/dev/docker.svg" alt="docker"    style="vertical-align:top; margin:6px 4px">
+</a>        
 
 <img src="https://github-readme-stats.vercel.app/api?username=kelwys&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
-
-<br/>
-<br/>
-
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
