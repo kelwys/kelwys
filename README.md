@@ -10,31 +10,22 @@ I am a fan of Python, Django, and ReactJS. I'm also interested in technology and
 
 ### Main Techs: 
 <p align="left">
-    <a href="#" style="pointer-events: none; cursor: default">
-        <img src="svg/dev/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
-    </a> 
-    <a href="#" style="pointer-events: none; cursor: default">
-        <img src="svg/dev/django.svg" alt="django" style="vertical-align:top; margin:6px 4px">
-    </a>
-    <a href="#" style="pointer-events: none; cursor: default">
-        <img src="svg/dev/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
-    </a> 
-    <a href="#" style="pointer-events: none; cursor: default">
-        <img src="svg/dev/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
-    </a>
-    </br>
-    <a href="#" style="pointer-events: none; cursor: default">
-        <img src="svg/dev/css3.svg" alt="css" style="vertical-align:top; margin:6px 4px">
-    </a>  
-    <a href="#" style="pointer-events: none; cursor: default">
-        <img src="svg/dev/js.svg" alt="js" style="vertical-align:top margin:6px 4px">
-    </a>    
-    <a href="#" style="pointer-events: none; cursor: default">
-        <img src="svg/dev/nodejs_larger.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
-    </a>   
-    <a href="#" style="pointer-events: none; cursor: default">
-        <img src="svg/dev/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
-    </a>
-</p>        
+   
+<img src="svg/dev/python.svg" alt="python" style="vertical-align:top; margin:6px 4px"> 
+
+<img src="svg/dev/django.svg" alt="django" style="vertical-align:top; margin:6px 4px">
+
+<img src="svg/dev/react.svg" alt="react" style="vertical-align:top; margin:6px 4px"> 
+
+<img src="svg/dev/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
 </br>
+   
+<img src="svg/dev/css3.svg" alt="css" style="vertical-align:top; margin:6px 4px">  
+
+<img src="svg/dev/js.svg" alt="js" style="vertical-align:top margin:6px 4px">    
+
+<img src="svg/dev/nodejs_larger.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">   
+
+<img src="svg/dev/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
+</p>
 <img src="https://github-readme-stats.vercel.app/api?username=kelwys&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
