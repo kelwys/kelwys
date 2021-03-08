@@ -28,4 +28,5 @@ I am a fan of Python, Django, and ReactJS. I'm also interested in technology and
 
 <img src="svg/dev/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px; pointer-events: none; cursor: default">
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=kelwys&&show_icons=true&theme=radical&line_height=27&v=5" alt="Ashwani's GitHub Stats" />
+
+![Kelwys's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelwys&show_icons=true&theme=tokyonight)
