@@ -15,11 +15,10 @@ I am a fan of <strong>Python, Django, and ReactJS.</strong> I'm also interested 
 <img src="svg/dev/react.svg" alt="react" style="vertical-align:top; margin:6px 4px; pointer-events: none; cursor: default"> 
 
 <img src="svg/dev/html.svg" alt="html" style="vertical-align:top; margin:6px 4px; pointer-events: none; cursor: default">
-</br>
    
 <img src="svg/dev/css3.svg" alt="css" style="vertical-align:top; margin:6px 4px; pointer-events: none; cursor: default">  
 
-<img src="svg/dev/js.svg" alt="js" style="vertical-align:top margin:6px 4px">    
+<img src="svg/dev/js.svg" alt="js" style="vertical-align:top; margin:6px 4px; pointer-events: none; cursor: default">    
 
 <img src="svg/dev/nodejs_larger.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px; pointer-events: none; cursor: default">   
 
@@ -27,10 +26,12 @@ I am a fan of <strong>Python, Django, and ReactJS.</strong> I'm also interested 
 </p>
 
 If you want to do a project with me or chat, don't hesitate to send me a message: ⤵️
-
-[![Linkedin Badge](https://img.shields.io/badge/-Kelwy%20Oliveira-4682B4?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kelwyoliveira/)](https://www.linkedin.com/in/kelwyoliveira/) 
-[![Gmail Badge](https://img.shields.io/badge/-kelwyduarte@gmail.com-4682B4?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kelwyduarte@gmail.com)](mailto:kelwyduarte@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/kelwyoliveira/"><img src="https://img.shields.io/badge/-kelwyoliveira-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:kelwyduarte@gmail.com"><img src="https://img.shields.io/badge/-kelwyduarte@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+</p>
 
 ![Kelwys's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelwys&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kelwys&theme=tokyonight_duo)](https://git.io/streak-stats)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelwys&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
