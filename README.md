@@ -32,5 +32,5 @@ If you want to do a project with me or chat, don't hesitate to send me a message
 </p>
 
 ![Kelwys's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelwys&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelwys&layout=compact&theme=tokyonight)](https://github.com/kelwys)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelwys&layout=compact&theme=tokyonight)](https://github.com/kelwys) -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kelwys&theme=tokyonight_duo)](https://github.com/kelwys)
